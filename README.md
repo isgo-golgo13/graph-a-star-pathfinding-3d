@@ -1,1 +1,1 @@
-# Graph A* Pathfinding algorithm using Rust with JavaScript Three.js Client
+# Graph A* Pathfinding algorithm using Rust with JavaScript Three.js
